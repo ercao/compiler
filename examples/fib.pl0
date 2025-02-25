@@ -1,0 +1,19 @@
+// 斐波那契数列
+fn fib(n) {
+  if n <= 1 {
+    var a = 2;
+    1
+  } else {
+    println(a)                      // 出错 1
+    println(afdsafdsafdsa)          // 出错 2
+    fib(n - 2) + fib(n - 2)
+  }
+}
+
+var i = 0;
+while (i < 10) {
+  println(fib(i));
+  i += 1
+}
+
+1 + fdasfds;                        // 出错 3
